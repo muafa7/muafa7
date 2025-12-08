@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 About
+Muafa — Full-stack Web Developer (JS/TS) based in Jakarta 🇮🇩  
+Building fast, secure apps with real-time features, clean backend architecture, and RBAC.
 
-<!--
-**muafa7/muafa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Currently building
+**StreamPay** — Lightning-powered micropayment content gate  
+🔓 Pay → unlock premium content (articles/videos/downloads)  
+🧾 One-time invoices (LNbits/LND) • ✅ unlock on payment • 🔄 polling/WebSocket status  
+🧑‍💻 Admin panel • 🧪 testnet support • ⏳ graceful expiry handling
 
-Here are some ideas to get you started:
+## 🔧 Tools
+⚛️ React / Vite / Tailwind / React Native  
+🟢 Node.js / Express / NestJS  
+🗄️ PostgreSQL / MySQL / Redis  
+🔌 REST / RabbitMQ / WebSockets (Socket.IO)  
+🔐 JWT / RBAC • 🌿 Git/GitHub • 🧪 Jest/Jasmine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me
+📧 muafammm@gmail.com
