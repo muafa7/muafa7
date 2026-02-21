@@ -14,9 +14,6 @@ Backend engineer specializing in real-time collaboration systems, secure authori
 - Optimized booking API performance (~30% latency reduction)
 - Integrated secure payment flows with Midtrans
 
-### 🔭 Currently
-- Building **Collab Sync Backend** — a real-time collaboration engine with conflict resolution, RBAC, audit logs, and metrics.
-
 ### 🚀 Interests
 Distributed systems, consistency models, operational semantics, developer tools, workflow/collab products.
 
